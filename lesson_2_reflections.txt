@@ -15,3 +15,6 @@ trying experimental versions of the code, especially while working in a team whe
 How do the diagrams help you visualize the branch structure?
 by more clearly revealing the 1st order relationships
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+new lines added relative to the common brachpoint are included in the merged file. deleted lines are removed in the merged file
+
