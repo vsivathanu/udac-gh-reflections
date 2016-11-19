@@ -6,3 +6,6 @@ and the repository? What value do you think it offers?
 it offers flexibility to add only certain files from the working directory as commits 
 to the repository
 
+How can you use the staging area to make sure you have one commit per logical change?
+git add lets you chose which files to include in a commit, through the staging area
+
