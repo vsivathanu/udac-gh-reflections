@@ -12,4 +12,6 @@ git add lets you chose which files to include in a commit, through the staging a
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 trying experimental versions of the code, especially while working in a team where the main version is being updated anyways
 
+How do the diagrams help you visualize the branch structure?
+by more clearly revealing the 1st order relationships
 
