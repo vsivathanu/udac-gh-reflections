@@ -18,3 +18,7 @@ by more clearly revealing the 1st order relationships
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 new lines added relative to the common brachpoint are included in the merged file. deleted lines are removed in the merged file
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+auto saves us time by only asking us to resolve the clear conflicts
+
+
