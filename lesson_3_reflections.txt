@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 fork: copy another person's repository to work independently on it
 clone: copying from remote to local, or from local to local
 branch: make changes to existing branch, without affecting the main branch. Can be useful if we want to merge later (like for a separate feature)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+it is useful when merging the local copy with the remote copy because the remote copy needs to know the common ancestor. (however, if the commit history is there, won't we automatically know the common ancestor?)
