@@ -12,3 +12,8 @@ branch: make changes to existing branch, without affecting the main branch. Can 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 it is useful when merging the local copy with the remote copy because the remote copy needs to know the common ancestor. (however, if the commit history is there, won't we automatically know the common ancestor?)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Github
+harder: merging, keeping track(commits)
+easier: coding would be faster (less steps, no commits)
